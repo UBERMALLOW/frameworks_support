@@ -64,7 +64,7 @@
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
 
     <!-- TODO: This is 40% alpha on the default accent color. -->
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_dark">#66009688</color>
     <!-- TODO: This is 40% alpha on the default accent color. -->
     <color name="highlighted_text_material_light">#66009688</color>
 
@@ -107,7 +107,7 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_50">#fffafafa</color>
 
-    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_200">#ff009688</color>
     <color name="material_deep_teal_500">#ff009688</color>
 
     <color name="material_blue_grey_800">#ff37474f</color>
