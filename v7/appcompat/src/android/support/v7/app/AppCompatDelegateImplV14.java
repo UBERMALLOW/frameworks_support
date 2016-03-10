@@ -22,6 +22,7 @@ import android.content.res.Configuration;
 import android.content.res.Resources;
 import android.os.Build;
 import android.support.v7.internal.view.SupportActionModeWrapper;
+import android.support.v7.view.SupportActionModeWrapper;
 import android.view.ActionMode;
 import android.view.Window;
 
